@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Manorath",
+    "description": "Future is Now",
+    "image": "me.png",
+    "bio": "Full-Stack Web Development student leveraging design/photography experience to build more intuitive user experience on the web. Currently enrolled in the Full Stack Program at the University of Texas at Austin, I am developing skill sets in HTML, CSS, JavaScript, and React.js, and responsive web design. Building on current strengths in meeting deadlines, creativity, and teamwork to help customer bring their ideas to life. I'm deeply passionate about creating loved and trusted products.",
+    "contactmessage": "If you're interested in working, send me a message!",
+    "email": "naphaphonem@outlook.com",
+    "phone": "(940) 297 7266",
+    "address": {
+      "street": "14228 Marianopolis Way",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92129"
+    },
+    "website": "https://www.duck85.com/",
+    "resumedownload": "##",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manorath-n-7604671a0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/duck85__/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/manorathn",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Texas Austin Boot-Camp",
+        "degree": "Full-Stack Web Development"
+      },
+      {
+        "school": "Arizona State W.P Carey School of Business",
+        "degree": "Certificate Applied Business Data Analytics",
+        "description": ""
+      },
+      {
+        "school": "Arizona State University Walter Cronkite School of Journalism and Mass Communication",
+        "degree": "BA Mass Communications & Media Studies"
+      }
+    ],
+    "work": [
+      {
+        "company": "Verb Essentials",
+        "title": "CEO",
+        "years": "Jan 2019 - Present",
+        "description": "A multi-disciplinary, independently-owned product design studio. Our work encompasses graphics and identity, products, packaging and manufacturing."
+      },
+      {
+        "company": "PT Adira Semesta Industry",
+        "title": "Account Manager",
+        "years": "Jan 2018 - Present"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "60%"
+      },
+      {
+        "name": "MONGODB",
+        "level": "50%"
+      },
+      {
+        "name": "Heroku",
+        "level": "50%"
+      },
+      {
+        "name": "GitHub",
+        "level": "80%"
+      },
+      {
+        "name": "NODE.JS",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather App",
+        "category": "Weather App",
+        "image": "alien.png",
+        "url": "https://github.com/manorathn/weatherMan"
+      },
+      {
+        "title": "Budget Tracker",
+        "category": "Budget Tracker",
+        "image": "asteroid.png",
+        "url": "https://github.com/manorathn/BudgiTracker"
+      },
+      {
+        "title": "Note Taker",
+        "category": "Take Notes",
+        "image": "earth.png",
+        "url": "https://github.com/manorathn/noteJotter"
+      },
+      {
+        "title": "Employee Directory",
+        "category": "Employee Directory",
+        "image": "moon-rover.png",
+        "url": "https://github.com/manorathn/EmployeeDirectory"
+      },
+      {
+        "title": "Workout Tracker",
+        "category": "Fitness Tracker",
+        "image": "rocket.png",
+        "url": "https://github.com/manorathn/workoutTracker"
+      },
+      {
+        "title": "Responsive Portfolio",
+        "category": "Portfolio",
+        "image": "solar-system.png",
+        "url": "https://github.com/manorathn/ResponsivePortfolio"
+      }
+    ]
+  }
+}
