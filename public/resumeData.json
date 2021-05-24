@@ -37,16 +37,18 @@
     "education": [
       {
         "school": "University of Texas Austin Boot-Camp",
-        "degree": "Full-Stack Web Development"
+        "degree": "Full-Stack Web Development",
+        "graduated": "June 2021"
       },
       {
         "school": "Arizona State W.P Carey School of Business",
         "degree": "Certificate Applied Business Data Analytics",
-        "description": ""
+        "graduated": "May 2008"
       },
       {
         "school": "Arizona State University Walter Cronkite School of Journalism and Mass Communication",
-        "degree": "BA Mass Communications & Media Studies"
+        "degree": "BA Mass Communications & Media Studies",
+        "graduated": "May 2008"
       }
     ],
     "work": [
